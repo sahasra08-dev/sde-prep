@@ -1,7 +1,7 @@
 # sde-prep
 
 
-# ✅ DAY 1 — C++ BASICS REVISION
+#  DAY 1 — C++ BASICS REVISION
 
 ### Topics Covered
 
@@ -25,13 +25,10 @@
 * Fibonacci Series
 * Sum of Digits
 
-### Status
-
-✅ Completed
 
 ---
 
-# ✅ DAY 2 — FUNCTIONS IN C++
+#  DAY 2 — FUNCTIONS IN C++
 
 ### Topics Covered
 
@@ -54,10 +51,56 @@
 * Prime Using Function
 * Maximum of Three Numbers
 
-### Status
-
-✅ Completed
 
 ---
+# Day 3 - Arrays Basics
+
+## Topics Learned
+
+* Arrays
+* Traversal
+* Sum
+* Largest/Smallest Element
+* Reverse Array
+* Linear Search
+
+## Programs Practiced
+
+* array_sum.cpp
+* largest_element.cpp
+* smallest_element.cpp
+* reverse_array.cpp
+* second_largest.cpp
+* linear_search.cpp
+* count_even.cpp
+
+-----
+# Day 4 - Strings
+
+## Topics Learned
+
+* getline()
+* length()
+* Reverse String
+* Palindrome String
+* Count Vowels
+* Character Frequency
+* Reverse Words
+* Remove Spaces
+
+## Programs Practiced
+
+* reverse_string.cpp
+* palindrome_string.cpp
+* vowel_count.cpp
+* uppercase.cpp
+* lowercase.cpp
+* word_count.cpp
+* string_length.cpp
+* character_frequency.cpp
+* reverse_words.cpp
+* remove_spaces.cpp
+
+-----
 
 
